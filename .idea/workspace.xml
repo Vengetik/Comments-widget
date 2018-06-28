@@ -175,16 +175,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Widget.html">
-    <configuration name="Widget.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reviews-widget/Widget.html" />
+  <component name="RunManager" selected="JavaScript Debug.Index.html">
+    <configuration name="Index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/reviews-widget/Index.html" />
     <configuration name="widget.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="widget.js" working-dir="$PROJECT_DIR$/js" />
     <list>
-      <item itemvalue="JavaScript Debug.Widget.html" />
+      <item itemvalue="JavaScript Debug.Index.html" />
       <item itemvalue="Node.js.widget.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Widget.html" />
+        <item itemvalue="JavaScript Debug.Index.html" />
         <item itemvalue="Node.js.widget.js" />
       </list>
     </recent_temporary>
