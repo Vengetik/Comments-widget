@@ -255,3 +255,8 @@ body {
   color: white;
   background-color: #97c7df;
 }
+@media (max-width: 376px) {
+  .review {
+    flex-direction: column;
+  }
+}
