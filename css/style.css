@@ -261,6 +261,9 @@ body {
 .page-link{
   color: #97c7df;
 }
+.page-link:hover {
+  color: #97C7DF;
+}
 .page-active {
   color: white;
   background-color: #97c7df;
